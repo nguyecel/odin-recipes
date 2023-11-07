@@ -5,8 +5,19 @@
 
 h1 {
     background-color: lightgreen;
+    padding: 13px;
+    border-radius: 13px;
 }
 
 div {
-    background-color: 
+    background-color: lightcyan;
+    padding: 50px;
+}
+
+a {
+    margin: 8px;
+    background-color: aquamarine;
+    display: inline-block;
+    padding: 8px;
+    border-radius: 12px;
 }

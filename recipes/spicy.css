@@ -7,5 +7,16 @@ body {
 }
 
 h1 {
+    background-color: orangered;
+    border-radius: 12px;
+    padding: 10px;
+    display: inline-block;
+}
+
+img {
+    border: solid 8px orangered;
+    border-radius: 20px;
+}
+.text {
     background-color: lightyellow;
 }
